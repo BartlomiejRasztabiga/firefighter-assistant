@@ -1,0 +1,16 @@
+[
+  {
+    "name": "firefighter-assistant",
+    "binaryName": "firefighter",
+    "version": "0.0.3",
+    "description": "Firefighter Assistant",
+    "urls": [
+      {
+        "platform": "any",
+        "os": "any",
+        "url": "https://nexus.tools.v2.symmetrical.ai/repository/binaries/firefighter-assistant/firefighter-assistant.0.3.0.tar.gz"
+      }
+    ],
+    "created": "2024-18-01T00:37:24.657550Z"
+  }
+]
