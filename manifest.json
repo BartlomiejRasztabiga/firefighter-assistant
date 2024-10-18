@@ -2,13 +2,13 @@
   {
     "name": "firefighter-assistant",
     "binaryName": "symctl-firefighter",
-    "version": "0.13.0",
+    "version": "0.14.0",
     "description": "Firefighter Assistant",
     "urls": [
       {
         "platform": "any",
         "os": "any",
-        "url": "https://nexus.tools.v2.symmetrical.ai/repository/binaries/firefighter-assistant/firefighter-assistant.0.13.0.tar.gz"
+        "url": "https://nexus.tools.v2.symmetrical.ai/repository/binaries/firefighter-assistant/firefighter-assistant.0.14.0.tar.gz"
       }
     ],
     "created": "2024-10-18T00:37:24.657550Z"
